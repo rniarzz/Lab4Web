@@ -62,3 +62,38 @@ Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seper
 Kemudian buka browser untuk melihat hasilnya.
 
 ![Screenshot (309)](https://github.com/rniarzz/Lab4Web/assets/115542704/e374234a-745b-4442-9795-a10d2bdc9b23)
+
+## Mengatur Clearfix Element
+**Clearfix** digunakan untuk mengatur element setelah float element. Property clear digunakan untuk
+mengaturnya.
+
+Tambahkan element div lainnya seteleah div3 seperti berikut.
+
+```html
+<section>
+    <div class="div1">Div 1</div>
+    <div class="div2">Div 2</div>
+    <div class="div3">Div 3</div>
+    <div class="div4">Div 4</div>
+</section>
+```
+Kemudian atur property clear pada CSS, seperti berikut.
+
+```html
+.div4 {
+    background-color: blue;
+    clear: left;
+    float: none;
+}
+```
+Selanjutnya buka browser dan refresh kembali.
+
+![Screenshot (310)](https://github.com/rniarzz/Lab4Web/assets/115542704/1d634f65-7eda-44bd-9fdf-c4022d95fe4f)
+
+## Membuat Layout Sederhana
+Kita akan membuat layout web sederhana seperti gambar berikut.
+
+![Screenshot (319)](https://github.com/rniarzz/Lab4Web/assets/115542704/a82ce2fa-2609-4679-93e2-a49970d7f3d9)
+
+![Screenshot (320)](https://github.com/rniarzz/Lab4Web/assets/115542704/7cc4430c-ee3f-49e0-b11f-ef1c3f8c8de9)
+
