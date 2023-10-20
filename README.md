@@ -442,7 +442,7 @@ pretium ac.</p>
     float: right;
 ```
 
-![Screenshot (321)](https://github.com/rniarzz/Lab4Web/assets/115542704/f4d819b1-eb42-470f-a661-bdfdf4f793ba)
+![Screenshot (320)](https://github.com/rniarzz/Lab4Web/assets/115542704/00a8cacc-f6ec-4b68-a90d-f3ba9e6cd880)
 
 ## Pertanyaan dan Tugas
 1. Tambahkan Layout untuk ```menu About```.
