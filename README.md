@@ -121,3 +121,68 @@ Kemudian tulis kode berikut.
 Kemudian buka browser dan lihat hasilnya.
 
 ![Screenshot (311)](https://github.com/rniarzz/Lab4Web/assets/115542704/fdf7b542-bb89-4620-916b-d3047a00dd7c)
+
+Kemudian tambahkan kode CSS untuk membuat layoutnya.
+
+```html
+/* import google font */
+@import
+url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400
+;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+@import
+url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@0
+,300;0,700;1,300&display=swap');
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    line-height:1;
+    font-size:100%;
+    font-family:'Open Sans', sans-serif;
+    color:#5a5a5a;
+}
+#container {
+    width: 980px;
+    margin: 0 auto;
+    box-shadow: 0 0 1em #cccccc;
+}
+/* header */
+header {
+    padding: 20px;
+}
+header h1 {
+    margin: 20px 10px;
+    color: #b5b5b5;
+}
+```
+Kemudian lihat hasilnya pada browser.
+
+![Screenshot (313)](https://github.com/rniarzz/Lab4Web/assets/115542704/eb5e6c84-5e87-495a-9b93-a04626967f05)
+
+## Membuat Navigasi
+Kemudian selanjutnya mengatur navigasi.
+
+```html
+/* navigasi */
+nav {
+    display: block;
+    background-color: #1f5faa;
+    }
+nav a {
+    padding: 15px 30px;
+    display: inline-block;
+    color: #ffffff;
+    font-size: 14px;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav a.active,
+nav a:hover {
+    background-color: #2b83ea;
+}
+```
+Kemudian lihat hasilnya.
+
+![Screenshot (314)](https://github.com/rniarzz/Lab4Web/assets/115542704/5da97a5f-d0f5-45d2-81e7-f787c427219e)
