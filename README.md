@@ -444,3 +444,86 @@ pretium ac.</p>
 
 ![Screenshot (321)](https://github.com/rniarzz/Lab4Web/assets/115542704/f4d819b1-eb42-470f-a661-bdfdf4f793ba)
 
+## Pertanyaan dan Tugas
+1. Tambahkan Layout untuk ```menu About```.
+* => buat single layout yang berisi deskripsi, portfolio, dll
+2. Tambahkan layout untuk ```menu Contact```.
+* => yang berisi form isian: nama, email, message, dll
+
+## menu About
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="container">
+        <header>
+            <h1>About Me</h1>
+        </header>
+        <nav>
+            <a href="home.html" class="active">Home</a>
+            <a href="artikel.html">Artikel</a>
+            <a href="about.html">About</a>
+            <a href="kontak.html">Kontak</a>
+        </nav>
+        <section id="introduce">
+            <div class="row">
+                <img src="C:\Users\Asus\Pictures\milik rini\edit.JPG" title="Rini Ariza" alt="Rini Ariza" class="image-circle" width="230"
+                style="float: left; border: 2px solid black;">
+                <h1>Haii bro!</h1>
+                <p align="justify">Nama saya Rini Ariza, Saya lahir di Bekasi, 8 Mei 2004.
+                Saya Mahasiswa Semester 3 di Universitas Pelita Bangsa, Saya Jurusan Teknik Informatika yang sedang mempelajari materi HTML dan CSS.
+                </p>
+                
+            </div>
+        </section>
+    </div>
+</body>
+</html>
+```
+## menu kontak
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="container">
+        <header>
+            <h1>Contact Me</h1>
+        </header>
+        <nav>
+            <a href="home.html" class="active">Home</a>
+            <a href="artikel.html">Artikel</a>
+            <a href="about.html">About</a>
+            <a href="kontak.html">Kontak</a>
+        </nav>
+        <section id="kontak">
+            <div class="login">
+                <input type="text" placeholder="Your Name" class="input">
+                <input type="text" placeholder="Your Email Address" class="input">
+            </div>
+            <div class="subject">
+                <input type="text" placeholder="Subject" class="input">
+            </div>
+            <div class="msg">
+                <textarea class="area" cols="35" rows="10" placeholder="Your Message" class="input"></textarea>
+            </div>
+
+            <button type="submit"> Send </button>
+        </section>
+    </div>
+</body>
+</html>
+```
