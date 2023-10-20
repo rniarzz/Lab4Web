@@ -94,6 +94,5 @@ Selanjutnya buka browser dan refresh kembali.
 Kita akan membuat layout web sederhana seperti gambar berikut.
 
 ![Screenshot (319)](https://github.com/rniarzz/Lab4Web/assets/115542704/a82ce2fa-2609-4679-93e2-a49970d7f3d9)
-
 ![Screenshot (320)](https://github.com/rniarzz/Lab4Web/assets/115542704/7cc4430c-ee3f-49e0-b11f-ef1c3f8c8de9)
 
