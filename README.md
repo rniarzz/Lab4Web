@@ -614,6 +614,10 @@ pretium ac.</p>
 
 ## hasil running
 
+**ABOUT ME**
+
 ![Screenshot (322)](https://github.com/rniarzz/Lab4Web/assets/115542704/86b0c685-a387-4bee-af71-c3ea71ace001)
+
+**CONTACT**
 
 ![Screenshot (321)](https://github.com/rniarzz/Lab4Web/assets/115542704/5553ee9c-fe9d-49bd-a688-97f8da764a07)
