@@ -88,7 +88,7 @@ Kemudian atur property clear pada CSS, seperti berikut.
 ```
 Selanjutnya buka browser dan refresh kembali.
 
-![Screenshot (310)](https://github.com/rniarzz/Lab4Web/assets/115542704/1d634f65-7eda-44bd-9fdf-c4022d95fe4f)
+![Uploading Screenshot (310).png…]()
 
 ## Membuat Layout Sederhana
 Kita akan membuat layout web sederhana seperti gambar berikut.
