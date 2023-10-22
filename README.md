@@ -418,6 +418,7 @@ elit, iaculis in nisl volutpat, malesuada tincidunt arcu. Proin in leo fringilla
 vestibulum mi porta, faucibus felis. Integer pharetra est nunc, nec pretium nunc
 pretium ac.</p>
 </article>
+```
 
 ```css
 .divider {
