@@ -9,7 +9,7 @@
 ---
 
 ## Membuat Dokumen HTML
-Persiapan membuat dokumen HTML dengan nama file lab4_box.html seperti berikut.
+Persiapan membuat dokumen HTML dengan nama file **lab4_box.html** seperti berikut.
 
 ```html
 <!DOCTYPE html>
@@ -28,7 +28,7 @@ Persiapan membuat dokumen HTML dengan nama file lab4_box.html seperti berikut.
 ```
 
 ## Membuat Box Element
-Kemudian tambahkan kode untuk membuat box element dengan tag div seperti berikut.
+Kemudian tambahkan kode untuk membuat box element dengan tag ```div``` seperti berikut.
 
 ```html
 <section>
@@ -64,10 +64,10 @@ Kemudian buka browser untuk melihat hasilnya.
 ![Screenshot (309)](https://github.com/rniarzz/Lab4Web/assets/115542704/e374234a-745b-4442-9795-a10d2bdc9b23)
 
 ## Mengatur Clearfix Element
-**Clearfix** digunakan untuk mengatur element setelah float element. Property clear digunakan untuk
+**Clearfix** digunakan untuk mengatur element setelah float element. **Property clear** digunakan untuk
 mengaturnya.
 
-Tambahkan element div lainnya seteleah div3 seperti berikut.
+Tambahkan element ```div``` lainnya seteleah ```div3``` seperti berikut.
 
 ```html
 <section>
@@ -200,7 +200,8 @@ pretium ac.</p>
     <a href="home.html" class="btn btn-large">Learn more &raquo;</a>
 </section>
 ```
-```html/* Hero Panel */
+```css
+/* Hero Panel */
 #hero {
     background-color: #e4e4e5;
     padding: 50px 20px;
@@ -222,7 +223,7 @@ pretium ac.</p>
 ## Mengatur Layout Main dan Sidebar
 Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
 
-```html
+```css
 /* main content */
 #wrapper {
     margin: 0;
@@ -266,7 +267,7 @@ pharetra est nunc, nec pretium nunc pretium ac.</p>
 ```
 Kemudian tambahkan CSS.
 
-```html
+```css
 /* widget */
 .widget-box {
     border:1px solid #eee;
@@ -300,7 +301,7 @@ Kemudian tambahkan CSS.
 
 ![Screenshot (316)](https://github.com/rniarzz/Lab4Web/assets/115542704/9f447bdd-d8c9-4831-a43d-328c1536bd75)
 
-```html
+```css
 /* footer */
 footer {
     clear:both;
@@ -347,7 +348,7 @@ euismod.</p>
 
 Kemudian tambahkan CSS.
 
-```html
+```css
 /* box */
 .box {
     display:block;
