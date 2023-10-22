@@ -124,7 +124,7 @@ Kemudian buka browser dan lihat hasilnya.
 
 Kemudian tambahkan kode CSS untuk membuat layoutnya.
 
-```html
+```css
 /* import google font */
 @import
 url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400
@@ -164,7 +164,7 @@ Kemudian lihat hasilnya pada browser.
 ## Membuat Navigasi
 Kemudian selanjutnya mengatur navigasi.
 
-```html
+```css
 /* navigasi */
 nav {
     display: block;
