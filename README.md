@@ -419,6 +419,7 @@ vestibulum mi porta, faucibus felis. Integer pharetra est nunc, nec pretium nunc
 pretium ac.</p>
 </article>
 
+```css
 .divider {
     border:0;
     border-top:1px solid #eeeeee;
