@@ -79,8 +79,8 @@ Tambahkan element ```div``` lainnya seteleah ```div3``` seperti berikut.
 ```
 Kemudian atur property clear pada CSS, seperti berikut.
 
-```html
-div4 {
+```css
+.div4 {
     background-color: blue;
     clear: left;
     float: none;
